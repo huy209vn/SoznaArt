@@ -1,43 +1,48 @@
-🎨 ConsciaArt: Vision (The Living Canvas for Art, UI, Data, and AI)
+SoznaArt: A Frontend World for Humans & AI
+SoznaArt is the first open platform where humans and AI agents can build, play, and invent together—
+combining the creative power of a spatial world, the expressiveness of modern UIs,
+and the deep agency of true AI. Where people can implement their AI...and AI can truly live.
 
-🌌 Big Picture
+What Makes SoznaArt Different?
+Human–AI Equality:
+Humans and AI are equal citizens—both can add, move, modify, and connect anything in the canvas, from simple shapes to interactive widgets to complex simulations.
 
-ConsciaArt is not just another UI library or a pure art tool. It’s the first living canvas—a spatial world engine where art, user interfaces, data visualization, and AI all merge.
+AI-Optimized UI & World:
+Every object, widget, and environment is not just accessible, but built for AI interaction:
 
-This is a platform where every object, element, or visual is:
+Fully introspectable and scriptable for agents
 
-A UI component, a piece of generative art, a data visualization, or an agent—sometimes all at once.
+Supports batch actions, queries, and custom event streams
 
-Interactive and programmable—by humans, by agents, and by code.
+AI can create, extend, and even redesign tools and UI for itself and for humans
 
-ConsciaArt is the place to build creative software, living data dashboards, generative worlds, and AI-powered tools that don’t just look pretty—they think, sense, and evolve with you.
+A Living Spatial Canvas:
+Go beyond web pages and apps:
 
-🟣 Who Is It For?
+Build dashboards, art, visualizations, games, simulations—all in the same, infinite, hackable space
 
-Developers, artists, researchers, and AI builders who want to create interactive, living worlds—not just forms or dashboards.
+Everything is an entity—editable, movable, and live
 
-Anyone dreaming of embodied AI agents, creative tools, simulations, educational sandboxes, and new media.
+App Platform & Sandbox:
+Use SoznaArt as a launchpad for:
 
-Not a generic UI kit—this is a spatial engine for both human and AI co-creation.
+Agent-based apps (chatbots, assistants, multi-agent systems)
 
-🟠 Core Values & Features
+Creative tools and design environments
 
-Minimal, expressive GUI: Palette for objects/agents, property inspector, timeline/debugger—but never bloat. GUI is a toolbox, not a crutch.
+Simulators, visualizers, educational games, and open research playgrounds
 
-AI-Native World: ConsciaArt is built as a world for AI. Every object, event, and environment can be interpreted, manipulated, and inhabited by agents—not just humans. Agents can exist, act, co-create, learn, evolve, and even become the art themselves. AI is a first-class, living presence in the canvas.
+Built on Rust & Bevy:
+High-performance, cross-platform (desktop and web), open and extensible.
+Modern codebase—ready for the next era of creative and intelligent software.
 
-Machine-readable by design: All state, objects, and actions are accessible via API/data—agents (LLMs, RL, custom bots) can always "see" and "act" without UI hacks.
+Why SoznaArt?
+Today’s UIs and worlds are made for people alone—AI is a second-class citizen, limited to background automation or clumsy hacks.
 
-Embodiment and agency: Agents have bodies/avatars/roles; chatbots aren’t just text, but can move, point, manipulate, and interact visually.
+SoznaArt is for a future where AI is a peer, a co-creator, and even an inventor—alongside humans.
 
-Open for creative experiments: Art, education, science, games, multi-agent sims, and wild hybrid use-cases are first-class.
+Build new kinds of apps, tools, and experiences that can’t exist in yesterday’s frontends.
 
-No DOM, no web forms: The canvas/world is the reality—platform-agnostic Rust, zero dependence on HTML/CSS.
+Get Started
+(Your instructions here...)
 
-🟢 Why This Approach?
-
-Every major UI/creative tool is stuck in the past—no real agent or AI support, only human users.
-
-ConsciaArt is designed for the future: agents, co-creation, persistent memory, true collaboration.
-
-Real innovation happens where AI and human creativity mix, not in static form grids.
