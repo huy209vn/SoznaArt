@@ -1,0 +1,5 @@
+
+[workspace]
+members = ["crates/SoznaArt"]
+resolver = "2"
+
